@@ -17,7 +17,7 @@ license: mit
 
 | | URL |
 |---|---|
-| **🎮 Demo UI** | [huggingface.co/spaces/Bibyutatsu/AzureDocling-serve](https://huggingface.co/spaces/Bibyutatsu/AzureDocling-serve) |
+| **🎮 Demo UI** | [huggingface.co/spaces/Bibyutatsu/AzureDocling-serve](https://Bibyutatsu-AzureDocling-serve.hf.space/ui) |
 | **📖 API Docs** | [Bibyutatsu-AzureDocling-serve.hf.space/docs](https://Bibyutatsu-AzureDocling-serve.hf.space/docs) |
 | **📐 Scalar Docs** | [Bibyutatsu-AzureDocling-serve.hf.space/scalar](https://Bibyutatsu-AzureDocling-serve.hf.space/scalar) |
 
