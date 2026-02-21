@@ -9,4 +9,4 @@ app = create_app()
 @app.get("/", include_in_schema=False)
 async def root():
     """Redirect root to API docs (also serves as HF Spaces health check)."""
-    return RedirectResponse(url="/ui")
+    return RedirectResponse(url="/ui/")
